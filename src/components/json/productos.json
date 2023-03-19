@@ -1,6 +1,6 @@
 [
 {
-    "id": 1,
+    "index": 1,
     "title": "iPhone 9",
     "description": "An apple mobile which is nothing like apple",
     "price": 549,
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "id": 2,
+    "index": 2,
     "title": "iPhone X",
     "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
     "price": 899,
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "id": 3,
+    "index": 3,
     "title": "Samsung Universe 9",
     "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
     "price": 1249,
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "id": 4,
+    "index": 4,
     "title": "OPPOF19",
     "description": "OPPO F19 is officially announced on April 2021.",
     "price": 280,
@@ -71,7 +71,7 @@
     ]
   },
   {
-    "id": 5,
+    "index": 5,
     "title": "Huawei P30",
     "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
     "price": 499,
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "id": 6,
+    "index": 6,
     "title": "MacBook Pro",
     "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
     "price": 1749,
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "id": 7,
+    "index": 7,
     "title": "Samsung Galaxy Book",
     "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
     "price": 1499,
@@ -124,7 +124,7 @@
     ]
   },
   {
-    "id": 8,
+    "index": 8,
     "title": "Microsoft Surface Laptop 4",
     "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
     "price": 1499,
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "id": 9,
+    "index": 9,
     "title": "Infinix INBOOK",
     "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
     "price": 1099,
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "id": 10,
+    "index": 10,
     "title": "HP Pavilion 15-DK1056WM",
     "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
     "price": 1099,
@@ -177,6 +177,82 @@
       "https://i.dummyjson.com/data/products/10/2.jpg",
       "https://i.dummyjson.com/data/products/10/3.jpg",
       "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+    ]
+  },
+  {
+    "index": 11,
+    "title": "Plant Hanger For Home",
+    "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+    "price": 41,
+    "discountPercentage": 17.86,
+    "rating": 4.08,
+    "stock": 131,
+    "brand": "Boho Decor",
+    "category": "home-decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg",
+      "https://i.dummyjson.com/data/products/26/3.jpg",
+      "https://i.dummyjson.com/data/products/26/4.jpg",
+      "https://i.dummyjson.com/data/products/26/5.jpg",
+      "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
+    ]
+  },
+  {
+    "index": 12,
+    "title": "Flying Wooden Bird",
+    "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+    "price": 51,
+    "discountPercentage": 15.58,
+    "rating": 4.41,
+    "stock": 17,
+    "brand": "Flying Wooden",
+    "category": "home-decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg",
+      "https://i.dummyjson.com/data/products/27/3.jpg",
+      "https://i.dummyjson.com/data/products/27/4.jpg",
+      "https://i.dummyjson.com/data/products/27/thumbnail.webp"
+    ]
+  },
+  {
+    "index": 13,
+    "title": "Key Holder",
+    "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+    "price": 30,
+    "discountPercentage": 2.92,
+    "rating": 4.92,
+    "stock": 54,
+    "brand": "Golden",
+    "category": "home-decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg",
+      "https://i.dummyjson.com/data/products/30/3.jpg",
+      "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+    ]
+  },
+  {
+    "index": 14,
+    "title": "3D Embellishment Art Lamp",
+    "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+    "price": 20,
+    "discountPercentage": 16.49,
+    "rating": 4.82,
+    "stock": 54,
+    "brand": "LED Lights",
+    "category": "accesories",
+    "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/28/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg",
+      "https://i.dummyjson.com/data/products/28/3.png",
+      "https://i.dummyjson.com/data/products/28/4.jpg",
+      "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
     ]
   }
 ]

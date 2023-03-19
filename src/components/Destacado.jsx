@@ -1,4 +1,4 @@
-import marcas from "./images/marcas.jpg";
+import marcas from "./images/marcas.png";
 
 const Destacado = () => {
     return (

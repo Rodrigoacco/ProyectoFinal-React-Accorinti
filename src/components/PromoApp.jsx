@@ -16,7 +16,7 @@ const PromoApp = () => {
                         </div>
                     </div>
                     <div className="col-md-6 d-flex aling-items-center justify-content-end">
-                        <button className="btn bg-light-subtle">Suscríbete ahora</button>
+                        <button className="btn btn-info">Suscríbete ahora</button>
                     </div>
                 </div>
             </div>

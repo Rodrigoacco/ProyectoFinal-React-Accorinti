@@ -22,16 +22,12 @@ const NavBar = () => {
                                         <NavLink className="nav-link" activeclassname={"active"} to="/category/laptops">Notebook</NavLink>
                                     </li>
                                     <li className="nav-item">
-                                        <NavLink className="nav-link" activeclassname={"active"} to="/category/deco">Deco</NavLink>
+                                        <NavLink className="nav-link" activeclassname={"active"} to="/category/home-decoration">Deco</NavLink>
                                     </li>
                                     <li className="nav-item">
-                                        <NavLink className="nav-link" activeclassname={"active"} to="/accesorios">Accesorios</NavLink>
+                                        <NavLink className="nav-link" activeclassname={"active"} to="/category/accesories">Accesorios</NavLink>
                                     </li>
                                 </ul>
-                                <form className="d-flex" role="search">
-                                    <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"></input>
-                                    <button className="btn btn-outline-success" type="submit">Search</button>
-                                </form>
                             </div>
                         </div>
                     </nav>
